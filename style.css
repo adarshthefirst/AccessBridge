@@ -1,0 +1,43 @@
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+  
+  .button2 {background-color: #008CBA;} /* Blue */
+  .button3 {background-color: #f44336;} /* Red */ 
+  .button4 {background-color: #e7e7e7; color: black;} /* Gray */ 
+  .button5 {background-color: #555555;} /* Black */
+
+  a.one:link {color:#ff0000;}
+  a.one:visited {color:#0000ff;}
+  a.one:hover {color:#ffcc00;}
+  a.one:focus{color:#555555; font-size:150%}
+  
+  a.two:link {color:#e600bf;}
+  a.two:visited {color:#0000ff;}
+  a.two:hover {color:#00ff22;}
+  a.two.two:focus{font-size:200%}
+  
+  a.three:link {color:#8400ff;}
+  a.three:visited {color:#0000ff;}
+  a.three:hover {color:#ff0000;}
+  a.three:focus{background:#66ff66; font-size:150%}
+  
+  a.four:link {color:#00ff37;}
+  a.four:visited {color:#0000ff;}
+  a.four:hover {color:#00eeff;}
+  a.four:focus{font-family:monospace; font-size:150%}
+  
+  a.five:link {color:#ff0000;text-decoration:none;}
+  a.five:visited {color:#0000ff;text-decoration:none;}
+  a.five:hover {text-decoration:underline;}
+  a.five:focus{color:#555555}  
+
